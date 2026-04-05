@@ -73,5 +73,3 @@ dotnet run
 * La base de datos se crea junto con sus relaciones.
 * No se requiere configuración adicional después de estos pasos.
 ---
-
----
